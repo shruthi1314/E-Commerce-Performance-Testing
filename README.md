@@ -10,5 +10,12 @@ The following load test scenarios were executed using Apache JMeter:
 | Test 2 | 100 |
 | Test 3 | 200 |
 | Test 4 | 400 |
+E-Commerce-Performance-Testing/
+│
+├── 50-Users-Test-Plan.jmx
+├── 100-Users-Test-Plan.jmx
+├── 200-Users-Test-Plan.jmx
+├── 400-Users-Test-Plan.jmx
+└── README.md
   
 
