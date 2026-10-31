@@ -32,5 +32,8 @@ The performance test aims to analyze the following metrics:
 5. Configure the number of users and ramp-up period.
 6. Execute the test.
 7. Analyze the results using JMeter listeners.
+8. ## Conclusion
+This project helps to understand the basics of performance testing using Apache JMeter and Docker.
+It focuses on evaluating application performance under different user loads and understanding key performance metrics such as response time, throughput, and error rate.
   
 
