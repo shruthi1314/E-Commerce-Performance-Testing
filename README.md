@@ -1,2 +1,2 @@
-# JMeter-Performance-Testing-Project
-Performance testing using Apache JMeter
+# E-Commerce Website Performance Testing Using Apache JMeter
+
