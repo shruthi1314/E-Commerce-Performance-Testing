@@ -17,5 +17,12 @@ E-Commerce-Performance-Testing/
 ├── 200-Users-Test-Plan.jmx
 ├── 400-Users-Test-Plan.jmx
 └── README.md
+The performance test aims to analyze the following metrics:
+- Response Time
+- Throughput
+- Error Rate
+- Average Response Time
+- Number of Successful Requests
+- Number of Failed Requests
   
 
