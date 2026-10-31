@@ -24,5 +24,13 @@ The performance test aims to analyze the following metrics:
 - Average Response Time
 - Number of Successful Requests
 - Number of Failed Requests
+- ## How to Run the Project
+1. Install Apache JMeter.
+2. Start the application using Docker.
+3. Open Apache JMeter.
+4. Load the JMeter test plan (.jmx) file.
+5. Configure the number of users and ramp-up period.
+6. Execute the test.
+7. Analyze the results using JMeter listeners.
   
 
